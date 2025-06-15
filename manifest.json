@@ -1,0 +1,26 @@
+{
+    "minecraft": {
+        "version": "1.21.1",
+        "modLoaders": [
+            {
+                "id": "neoforge-21.1.179",
+                "primary": true
+            }
+        ]
+    },
+    "manifestType": "minecraftModpack",
+    "manifestVersion": 1,
+    "name": "Create++",
+    "version": "1.0.0",
+    "author": "jrysz",
+    "overrides": "overrides",
+    "files": [
+        {
+            "_comment": "Just Enough Items (JEI)",
+            "projectID": 238222,
+            "fileID": 6614392,
+            "required": true
+        }
+
+    ]
+}
